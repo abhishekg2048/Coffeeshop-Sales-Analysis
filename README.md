@@ -1,9 +1,9 @@
-# Coffeeshop Sales Analysis
+# ☕ Coffeeshop Sales Analysis
 
-## Introduction
+## 📖 Introduction
 This project analyzes a hypothetical coffee shop sales dataset using SQL and Excel. The goal was to calculate core business KPIs, explore sales behavior across time and product categories, and build a visually appealing Excel dashboard for clear data-driven insights.
 
-## Contents
+## 📂 Contents
 ### 1. KPIs Calculated in SQL
 - Total Revenue
 - Average Revenue per Order
@@ -24,13 +24,13 @@ This project analyzes a hypothetical coffee shop sales dataset using SQL and Exc
 A detailed Excel dashboard was created using pivot tables, charts, slicers, timelines, and conditional formatting.
 It highlights trends, category-wise performance, best/worst sellers, peak order times, and summary insights.
 
-## Outcome
+## 🎯 Outcome
 This analysis provides insights such as:
 - Which days and times drive the most orders
 - Which drink categories and sizes contribute most to revenue
 - Best and worst selling products based on units sold
 - Hourly and daily behavior patterns that can inform staffing and inventory decisions
 
-## Tools Used
+## 🛠️ Tools Used
 - SQL (MSSQL)
 - Excel (Pivot Tables, Charts, Timeline, Slicers, Formatting)
