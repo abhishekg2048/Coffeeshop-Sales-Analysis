@@ -11,7 +11,7 @@ This project analyzes a hypothetical coffee shop sales dataset using SQL and Exc
 - Total Orders
 - Average Products Sold per Order
 
-### 2. Charting Data Generated in SQL
+### 2. Charting Data in SQL
 - Daily Trends for Total Orders
 - Hourly Trends for Total Orders
 - Percent of Sales by Category
